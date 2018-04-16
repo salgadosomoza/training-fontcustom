@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>remove-thin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="remove-thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-4" fill="#000000" fill-rule="nonzero" points="11.3462332 8.15711327 90.9864414 87.7973215 88.8651211 89.9186418 9.22491287 10.2784336"></polygon>
+        <polygon id="Path-4" fill="#000000" fill-rule="nonzero" points="88.8651211 8.15711327 90.9864414 10.2784336 11.3462332 89.9186418 9.22491287 87.7973215"></polygon>
+    </g>
+</svg>
