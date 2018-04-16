@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>heart-variant</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="heart-variant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="&lt;3" transform="translate(7.000000, 9.000000)" fill="#000000">
+            <path d="M43.5,7.27594435 C48.0862931,3.17110091 54.1427101,0.675102966 60.7820987,0.675102966 C75.0990581,0.675102966 86.7052468,12.2812917 86.7052468,26.5982511 C86.7052468,40.9152104 75.0990581,52.5213992 60.7820987,52.5213992 C54.1427101,52.5213992 48.0862931,50.0254012 43.5,45.9205578 C38.9137069,50.0254012 32.8572899,52.5213992 26.2179013,52.5213992 C11.9009419,52.5213992 0.294753178,40.9152104 0.294753178,26.5982511 C0.294753178,12.2812917 11.9009419,0.675102966 26.2179013,0.675102966 C32.8572899,0.675102966 38.9137069,3.17110091 43.5,7.27594435 Z" id="circles-combined" fill-rule="nonzero"></path>
+            <polygon id="diamond" points="43.5 7.21948218 80.1608676 43.8803498 43.5 80.5412174 6.83913239 43.8803498"></polygon>
+        </g>
+    </g>
+</svg>
