@@ -1,0 +1,101 @@
+//
+// Icon Font: fonticons
+//
+
+@font-face {
+  font-family: "fonticons";
+  src: url("../fonts/fonticons.eot");
+  src: url("../fonts/fonticons.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fonticons.woff2") format("woff2"),
+       url("../fonts/fonticons.woff") format("woff"),
+       url("../fonts/fonticons.ttf") format("truetype"),
+       url("../fonts/fonticons.svg#fonticons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fonticons";
+    src: url("../fonts/fonticons.svg#fonticons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.fi-arrow-left:before,
+.fi-arrow-right:before,
+.fi-camera:before,
+.fi-caret-left:before,
+.fi-caret-right:before,
+.fi-close:before,
+.fi-comment:before,
+.fi-facebook:before,
+.fi-heart:before,
+.fi-heart-variant:before,
+.fi-image:before,
+.fi-instagram:before,
+.fi-ok:before,
+.fi-pound:before,
+.fi-remove:before,
+.fi-remove-thin:before,
+.fi-shop:before,
+.fi-sun:before,
+.fi-warning-sign:before,
+.fi-warning-sign-variant:before {
+  display: inline-block;
+  font-family: "fonticons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.fi-arrow-left:before { content: "\f100"; }
+.fi-arrow-right:before { content: "\f101"; }
+.fi-camera:before { content: "\f102"; }
+.fi-caret-left:before { content: "\f103"; }
+.fi-caret-right:before { content: "\f104"; }
+.fi-close:before { content: "\f105"; }
+.fi-comment:before { content: "\f106"; }
+.fi-facebook:before { content: "\f107"; }
+.fi-heart:before { content: "\f108"; }
+.fi-heart-variant:before { content: "\f109"; }
+.fi-image:before { content: "\f10a"; }
+.fi-instagram:before { content: "\f10b"; }
+.fi-ok:before { content: "\f10c"; }
+.fi-pound:before { content: "\f10d"; }
+.fi-remove:before { content: "\f10e"; }
+.fi-remove-thin:before { content: "\f10f"; }
+.fi-shop:before { content: "\f110"; }
+.fi-sun:before { content: "\f111"; }
+.fi-warning-sign:before { content: "\f112"; }
+.fi-warning-sign-variant:before { content: "\f113"; }
+
+$font-fonticons-arrow-left: "\f100";
+$font-fonticons-arrow-right: "\f101";
+$font-fonticons-camera: "\f102";
+$font-fonticons-caret-left: "\f103";
+$font-fonticons-caret-right: "\f104";
+$font-fonticons-close: "\f105";
+$font-fonticons-comment: "\f106";
+$font-fonticons-facebook: "\f107";
+$font-fonticons-heart: "\f108";
+$font-fonticons-heart-variant: "\f109";
+$font-fonticons-image: "\f10a";
+$font-fonticons-instagram: "\f10b";
+$font-fonticons-ok: "\f10c";
+$font-fonticons-pound: "\f10d";
+$font-fonticons-remove: "\f10e";
+$font-fonticons-remove-thin: "\f10f";
+$font-fonticons-shop: "\f110";
+$font-fonticons-sun: "\f111";
+$font-fonticons-warning-sign: "\f112";
+$font-fonticons-warning-sign-variant: "\f113";
